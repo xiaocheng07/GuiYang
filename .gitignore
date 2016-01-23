@@ -1,0 +1,7 @@
+bin/com/cssweb/applet/javacard/applet.props
+bin/com/cssweb/applet/javacard/applet.cap
+bin/com/cssweb/applet/javacard/applet.exp
+bin/com/cssweb/applet/guiyang/javacard/guiyang.cap
+bin/com/cssweb/applet/guiyang/javacard/guiyang.exp
+bin/com/cssweb/applet/guiyang/javacard/guiyang.props
+*.class
